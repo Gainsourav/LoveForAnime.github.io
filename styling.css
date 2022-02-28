@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(240, 23, 23);
+    margin: auto;
+}
+h1 {
+    background-color: azure;
+    margin: auto;
+    font-size: 75px;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+}
+.a {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 750px;
+    top: 250px;
+   border: solid black;
+  
+
+}
+.aa {
+    height: 400px;
+    width: 350px;
+   
+}
+.imgsize {
+    width: 400px;
+    height: 350px;
+}
+.b {
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    position: relative;
+    top: 500px;
+    left: 750px;
+    border: solid black;
+}
+.c {
+    position: absolute;
+    top: 1500px;
+}
